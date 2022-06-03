@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--This is a README file for my portfoilio--!>
+<!--This is a README file for my portfoilio yep--!>
 **Andre32x/Andre32x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
